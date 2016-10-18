@@ -14,7 +14,7 @@ namespace Fight
             Monster monster = new Monster();
             Hero hero = new Hero();
 
-            Console.WriteLine(" U kan typen: a (Attack), h (Heal) of k (Kobe)");
+            Console.WriteLine(" U kan typen: a (Attack), h (Heal) of k (Kobe, has 5 turns cooldown!)");
             Console.WriteLine();
 
             while (hero.Health > 0 && monster.HP > 0)

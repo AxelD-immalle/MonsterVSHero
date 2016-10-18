@@ -1,0 +1,12 @@
+D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\bin\Debug\Fight.exe.config
+D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\bin\Debug\Fight.exe
+D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\obj\Debug\Fight.exe
+D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\obj\Debug\Fight.pdb
+D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\bin\Debug\Fight.pdb
+D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\bin\Debug\Fight.exe.config
+\\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\obj\Debug\Fight.exe
+\\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\obj\Debug\Fight.pdb
+\\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\bin\Debug\Fight.exe
+\\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\bin\Debug\Fight.pdb
+\\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache

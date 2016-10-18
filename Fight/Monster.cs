@@ -19,7 +19,7 @@ namespace Fight
 
         public Monster()
         {
-            HP = 1000;
+            HP = 2572;
             AP = 1;
         }
 
@@ -33,9 +33,9 @@ namespace Fight
         {
             heal = Rnd.Next(1, 51);
             this.HP += heal;
-            if (this.HP>1000)
+            if (this.HP>2572)
             {
-                this.HP = 1000;
+                this.HP = 2572;
             }
 
         }
