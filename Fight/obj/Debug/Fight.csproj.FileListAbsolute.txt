@@ -10,3 +10,6 @@ D:\5IB\Axel Dries\SOOT\Sem2\RPG\Fight\obj\Debug\Fight.csprojResolveAssemblyRefer
 \\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\bin\Debug\Fight.exe
 \\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\bin\Debug\Fight.pdb
 \\imma-fs-0003\axel.dries$\documents\Software 2015-2016\Sem2\RPG\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+H:\documents\Software\MonsterVSHero\Fight\bin\Debug\Fight.exe.config
+H:\documents\Software\MonsterVSHero\Fight\obj\Debug\Fight.exe
+H:\documents\Software\MonsterVSHero\Fight\obj\Debug\Fight.pdb
